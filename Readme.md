@@ -30,7 +30,7 @@ The main objective of this project is to use AI to correct non-standard English 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/AI-English-Correction-Chatbot.git
+    git clone https://github.com/drivedudu/AI-English-Correction-Chatbot.git
     cd AI-English-Correction-Chatbot
     ```
 
