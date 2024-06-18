@@ -33,13 +33,7 @@ The main objective of this project is to use AI to correct non-standard English 
     git clone https://github.com/drivedudu/AI-English-Correction-Chatbot.git
     cd AI-English-Correction-Chatbot
     ```
-
-2. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. Set up your OpenAI API key:
+2. Set up your OpenAI API key:
     - Create a file named `gpt.txt` and place your OpenAI API key in it.
 
 ## Usage
