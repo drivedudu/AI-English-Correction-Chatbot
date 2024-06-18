@@ -53,7 +53,3 @@ The main script sets up the Gradio interface and configures the GPT-3.5 model.
 ## Conclusion
 
 This project demonstrates the power of AI in language correction tasks, highlighting the importance of clear input structuring and parameter tuning to achieve effective results. The Gradio interface makes interaction simple and user-friendly.
-
----
-
-Feel free to customize this README to better fit your project and audience.
